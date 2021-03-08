@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is a tutorial",
   "dependencies": {
+    "node.js": "0.0.1-security",
     "phaser": "^3.52.0"
   }
 }
