@@ -1,0 +1,8 @@
+{
+  "name": "gamer",
+  "version": "1.0.0",
+  "description": "This is a tutorial",
+  "dependencies": {
+    "phaser": "^3.52.0"
+  }
+}
